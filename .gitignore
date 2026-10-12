@@ -8,10 +8,11 @@ parameter_trainer_multi.py
 parameter_trainer.py
 backtest_simulator.py
 venv/
+*.session
+*.session-journal
 session.session
 session.session-journal
 session_vkinha.session
-*.session-journal
 session_*.session
 anon.session
 backtest_simulator.py   
